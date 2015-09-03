@@ -1,0 +1,14 @@
+.container {
+    border: 1px solid black;
+    border-radius: 10px;
+    text-align: center;
+    margin: 1em;
+    padding: 2em;
+    position:relative;
+
+}
+
+.div {
+    padding:inherit;
+
+}
